@@ -17,14 +17,14 @@ This project is an end-to-end data engineering pipeline that:
 
 ## 📁 Project Structure
 
-
+```
 slooze_challenge/
-
-├── scraper.py            # Selenium-based scraper for Amazon
-├── amazon_data.csv       # Cleaned product data
-├── EDA.ipynb             # Jupyter notebook with visualizations and insights
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
+├── scraper.py          # Selenium-based scraper for Amazon
+├── amazon_data.csv     # Cleaned product data
+├── EDA.ipynb           # Jupyter notebook with visualizations and insights
+├── requirements.txt    # Python dependencies
+├── README.md           # Project documentation
+```
 
 
 ---
