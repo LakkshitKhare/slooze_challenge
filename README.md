@@ -89,4 +89,4 @@ jupyter notebook EDA.ipynb
 ## 📤 Submission
 
 This repository is part of the Slooze Data Engineering Challenge.  
-For queries or feedback, reach out to: **careers@slooze.xyz**
+For queries or feedback, reach out to: **lakkshitkhare@gmail.com**
