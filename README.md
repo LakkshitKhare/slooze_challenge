@@ -19,6 +19,7 @@ This project is an end-to-end data engineering pipeline that:
 
 
 slooze_challenge/
+
 ├── scraper.py            # Selenium-based scraper for Amazon
 ├── amazon_data.csv       # Cleaned product data
 ├── EDA.ipynb             # Jupyter notebook with visualizations and insights
