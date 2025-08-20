@@ -2,7 +2,7 @@ Absolutely, Elegant. Here's a complete `README.md` tailored to your challenge su
 
 ---
 
-```markdown
+
 # 🛠️ Slooze Data Engineering Challenge
 
 ## 📦 Overview
@@ -17,14 +17,14 @@ This project is an end-to-end data engineering pipeline that:
 
 ## 📁 Project Structure
 
-```
+
 slooze_challenge/
 ├── scraper.py            # Selenium-based scraper for Amazon
 ├── amazon_data.csv       # Cleaned product data
 ├── EDA.ipynb             # Jupyter notebook with visualizations and insights
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
-```
+
 
 ---
 
